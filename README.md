@@ -1,5 +1,18 @@
 xinmei's website
 # xlin1.github.io
 
-- list item 1
-- list item 2
+Introduction/Bio
+- my name
+- school/major
+
+Projects
+- 2-3
+- maybe include pictures
+
+Orgs/Clubs
+- 2
+- why
+
+Hobbies
+- 2-3
+
