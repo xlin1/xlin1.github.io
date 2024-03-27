@@ -1,6 +1,6 @@
-Welcome to Xinmei's Website
 # xlin1.github.io
 
+Welcome to Xinmei's Website
 
 Hey, I'm Xinmei. I'm currently a sophomore studying Data Science at UC Berkeley. I've taken data science, programming, calculus and linear algebra classes. My most recent obession is discrete math and probability.
 
