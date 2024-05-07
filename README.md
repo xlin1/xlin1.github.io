@@ -20,11 +20,20 @@ In comparison, my latest project: Exploring Cook County Housing (Data 100)
 <img width="834" alt="Screenshot 2024-03-26 at 9 09 13 PM" src="https://github.com/xlin1/xlin1.github.io/assets/42099835/2bb3cd3a-50ad-4bec-98f4-91d961d4a913">
 
 
+One of my favorite projects (Building my own world):
+- I completed this project with my partner and we built a Pac-Man style game with a start menu that took in seeds. We used pseudo-random variables to generate pseudo-random backgrounds.
+- We added a features like saving and loading, a flashlight, real-time tracker, and a HUD that displays the current tile the cursor hovers over.
+  
+<img width="780" alt="Screenshot 2024-05-06 at 5 36 06 PM" src="https://github.com/xlin1/xlin1.github.io/assets/42099835/230d4f75-8fa0-442c-a42c-a8b8bba342dd">
+<img width="780" alt="Screenshot 2024-05-06 at 5 37 19 PM" src="https://github.com/xlin1/xlin1.github.io/assets/42099835/d87ce29e-d7af-4e8e-9582-68e0a118d192">
+
+
 
 Orgs/Clubs
 - I'm part of WiCDS (Women in Computing and Data Science). Last semester, I partnered up to complete a project to see if there is an association between heart rate and cognitive fatigue. We used open-source data from Kaggle and tried to find a correlation between measuring heart rate using different methods and tiredness.
 - There were some issues we ran into. Mainly, it was because there was not a lot of data to work with. The study only spanned about 1-2 days with about 5 participants. 
 <img width="726" alt="Screenshot 2024-05-03 at 9 55 13 PM" src="https://github.com/xlin1/xlin1.github.io/assets/42099835/e60e5aae-3da6-4a18-b9b0-790c84b5d9ba">
+<img width="780" alt="Screenshot 2024-05-06 at 5 37 01 PM" src="https://github.com/xlin1/xlin1.github.io/assets/42099835/c92c2c3d-bb3a-4be2-8a52-027de1be3a1f">
 
   
 
