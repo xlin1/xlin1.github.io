@@ -30,13 +30,13 @@ One of my favorite projects (Building my own world):
 
 
 
-Orgs/Clubs
+## Orgs/Clubs:
 - I'm part of WiCDS (Women in Computing and Data Science). Last semester, I partnered up to complete a project to see if there is an association between heart rate and cognitive fatigue. We used open-source data from Kaggle and tried to find a correlation between measuring heart rate using different methods and tiredness.
 - There were some issues we ran into. Mainly, it was because there was not a lot of data to work with. The study only spanned about 1-2 days with about 5 participants. 
 <img width="726" alt="Screenshot 2024-05-03 at 9 55 13 PM" src="https://github.com/xlin1/xlin1.github.io/assets/42099835/e60e5aae-3da6-4a18-b9b0-790c84b5d9ba">
 
   
 
-Hobbies
+## Hobbies:
 - In my free time, I really enjoy playing badminton. I played in high school and plan to continue recreationally in college.
 - I also enjoy crocheting and making clothes like shirts and sweaters. 
